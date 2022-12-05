@@ -20,10 +20,9 @@
 
 ![Aaron Roethes GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRoethe&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AaronRoethe&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=AaronRoethe&theme=gruvbox&border_radius=4.5)
 
 #
 
 <details>
  <summary><h3>🧑‍🏫 Aaron's history lesson</h3></summary>
-   
