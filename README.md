@@ -18,10 +18,11 @@
 
 ### 📊 Stats
 
-![Aaron Roethes GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRoethe&show_icons=true&theme=gruvbox)
+![Aaron Roethes GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronRoethe&theme=gruvbox&border_radius=4.5&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AaronRoethe&theme=gruvbox&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AaronRoethe&theme=gruvbox&border_radius=4.5&count_private=true) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRoethe&layout=compact&theme=gruvbox&border_radius=4.5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 <details>
