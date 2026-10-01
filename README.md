@@ -15,7 +15,6 @@ Since 2022: ~680 pull requests (~530 merged) across Go services, Terraform, Kube
 ### 🏠 On the side
 
 - [`homelab`](https://github.com/AaronRoethe/homelab): Go + infrastructure for my home lab
-- [`work-history`](https://github.com/AaronRoethe/work-history): turns my PR history into a browsable, backdated git log
 - [`dotfiles`](https://github.com/AaronRoethe/dotfiles): my shell/dev environment
 - [`raspberry_pi`](https://github.com/AaronRoethe/raspberry_pi), [`rankingETL`](https://github.com/AaronRoethe/rankingETL), [`healthcare_cost`](https://github.com/AaronRoethe/healthcare_cost): older Python and Pi projects
 
