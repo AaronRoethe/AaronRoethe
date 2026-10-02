@@ -37,9 +37,3 @@ Since 2022: ~680 pull requests (~530 merged) across Go services, Terraform, Kube
 <img align="left" alt="Linux" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Raspberry Pi" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br clear="left" />
-
----
-
-### 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRoethe&layout=compact&theme=gruvbox&border_radius=4.5)](https://github.com/anuraghazra/github-readme-stats)
